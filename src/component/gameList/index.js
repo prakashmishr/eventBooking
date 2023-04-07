@@ -20,7 +20,7 @@ const GameList = () => {
   };
 
   const handleCheckout = () => {
-    // perform any necessary validation on the cart items
+
     // send an enquiry to the backend API
   };
 
